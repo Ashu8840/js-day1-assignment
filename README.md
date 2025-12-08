@@ -9,3 +9,10 @@ What I learned today:
 - How to commit and push code
 - Basic JavaScript printing using console.log
 
+-Output of the intro.js file :
+
+![Output Screenshot](https://raw.githubusercontent.com/Ashu8840/js-day1-assignment/main/Screenshot%20(210).png)
+
+-Output of last commit:
+
+![Last Commit Screenshot](https://raw.githubusercontent.com/Ashu8840/js-day1-assignment/main/Screenshot%20(211).png)
