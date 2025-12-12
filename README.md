@@ -96,3 +96,72 @@ All programs are written in a single file named `day3.js`.
 - Convert object → JSON string
 - Store JSON
 - Convert JSON → Object
+
+---
+
+# JavaScript Assignment – Day 4
+
+This repository contains solutions to all JavaScript DOM manipulation tasks from **Assignment 4 (Day-4)**.  
+All programs are written as separate HTML files in the `Day_4` folder.
+
+---
+
+## Contents Covered (12 Tasks)
+
+### Core DOM Manipulation Tasks
+
+1. **Change Text on Button Click** (`task1.html`)
+
+   - Change paragraph text when button is clicked
+
+2. **Background Color Changer** (`task2.html`)
+
+   - Change page background color using buttons (Red, Blue, Green, Reset)
+
+3. **Image Switcher** (`task3.html`)
+
+   - Switch between images using Next/Previous buttons
+
+4. **Show / Hide Paragraph** (`task4.html`)
+
+   - Toggle paragraph visibility with button
+
+5. **Counter App** (`task5.html`)
+
+   - Increase/Decrease counter with validation (cannot go below 0)
+
+6. **Create Element Dynamically** (`task6.html`)
+
+   - Add boxes dynamically to the page
+
+7. **Form Input Reader** (`task7.html`)
+
+   - Read input from form and display user name
+
+8. **Todo List** (`task8.html`)
+
+   - Add tasks to a todo list dynamically
+
+9. **Attribute Change** (`task9.html`)
+
+   - Change image size (Small/Large) by modifying attributes
+
+10. **Theme Switcher** (`task10.html`)
+    - Toggle between Light and Dark mode
+
+### Bonus Tasks
+
+11. **Live Clock** (`task11.html`)
+
+    - Display real-time clock that updates every second
+
+12. **Random Quote Generator** (`task12.html`)
+    - Display random quotes on button click
+
+---
+
+## How to Run
+
+1. Open any HTML file from the `Day_4` folder in your web browser
+2. Each file is self-contained with HTML, CSS, and JavaScript
+3. Interact with the buttons and controls to test the functionality
